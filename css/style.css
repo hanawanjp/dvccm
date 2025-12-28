@@ -1383,3 +1383,6 @@ pre {white-space: pre-wrap;word-wrap: break-word;overflow-wrap: break-word;}
 	}/*追加指定ここまで*/
 
 
+#ceo table tr td, #about table tr td {
+	padding-bottom: 20px;
+}
