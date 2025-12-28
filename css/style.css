@@ -442,7 +442,7 @@ footer {
 
 /*ロゴが入ったブロック*/
 footer .image {
-	width: 200px;	/*ボックス幅*/
+	width: 220px;	/*ボックス幅*/
 	text-align: center;	/*中身をセンタリング*/
 }
 
